@@ -1,4 +1,6 @@
 # INFO3180 - Lab 3
+Student Name: Lenesia Brown
+ID number: 620138572
 
 This is the starter code for Lab 3
 
